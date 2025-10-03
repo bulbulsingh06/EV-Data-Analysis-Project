@@ -29,7 +29,7 @@ This project analyzes a dataset of electric vehicles (EVs) to explore:
 ## How to Reproduce
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/EV-Data-Analysis-Project.git
+   git clone https://github.com/bulbulsingh06/EV-Data-Analysis-Project.git
 
 ## Contact
 
